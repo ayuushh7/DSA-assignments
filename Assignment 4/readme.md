@@ -9,10 +9,10 @@ btech cse core C
 
 | Field   | Details          |
 |---------|------------------|
-| Name    | Rishita          |
-| Roll No.| 2501010228       |
+| Name    | AYUSH            |
+| Roll No.| 2501010242       |
 | Course  | Btech CSE Core   |
-| Section | A                |
+| Section | C                |
 
 ---
 
